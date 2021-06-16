@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+.cc {
+  color: #000;
+}
+
 .ui.cards > .card > .image {
   height: 250px;
   padding: 20px;
